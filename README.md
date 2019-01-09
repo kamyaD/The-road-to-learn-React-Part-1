@@ -1,3 +1,4 @@
 # Hackernews P1
 
-### https://hacker-news-kamya.herokuapp.com/
+### Heroku link:
+https://hacker-news-kamya.herokuapp.com/
